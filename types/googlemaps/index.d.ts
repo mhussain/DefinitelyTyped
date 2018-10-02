@@ -2612,6 +2612,7 @@ declare namespace google.maps {
       placeIdOnly?: boolean;
       strictBounds?: boolean;
       types?: string[];
+      fields?: string[];
       type?: string;
     }
 
